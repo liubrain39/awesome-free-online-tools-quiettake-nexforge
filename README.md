@@ -12,6 +12,9 @@ A curated list of genuinely useful, free, no-signup-required online tools — or
 - [TinyPNG](https://tinypng.com/)
 - [Squoosh](https://squoosh.app/)
 
+## Audio Tools
+- [QuietTake Noise Remover](https://noiseremover.site/) — Free browser-local RNNoise speech noise reduction with original/cleaned playback and 48 kHz 16-bit WAV export; no signup or audio upload, limited to 50 MB and five minutes per file.
+
 ## SEO Tools
 - [WebTools Engine – SEO Toolkit](https://blazesolutions.info/seo-tools) — meta title/description checker, readability score, schema validator, website carbon calculator
 - [Google Search Console](https://search.google.com/search-console)
